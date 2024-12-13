@@ -1,5 +1,5 @@
 ---
-title: Prject 
+title: Project 
 subtitle: Description
 layout: default
 modal-id: 1
