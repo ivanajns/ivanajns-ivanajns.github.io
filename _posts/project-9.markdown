@@ -1,5 +1,5 @@
 ---
-title: Project Presentations on Automation Candidate Example and Alteryx and Power Automate Comparison  
+title: Project: Presentations on Automation Candidate Example and Alteryx and Power Automate Comparison  
 subtitle: 
 layout: default
 modal-id: 5
