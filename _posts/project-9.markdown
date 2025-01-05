@@ -1,5 +1,5 @@
 ---
-title: Presentations on Automation Candidate Example and Alteryx and Power Automate Comparison  
+title: Presentations: Automation Candidate Example & Alteryx and Power Automate Comparison  
 subtitle: Delivered presentations at the Tech Innovation Forum aimed at leadership, including the department VP and CFO. 
 layout: default
 modal-id: 5
