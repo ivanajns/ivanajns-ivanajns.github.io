@@ -8,7 +8,7 @@ img: presentation.png
 thumbnail: ep.jpg
 alt: image-alt
 project-date: July 2024 & January 2025
-results:
+results: Enabled leadership to align on characteristics for identifying automation opportunities and independently assess automation candidates.
 technology:
 description: "Delivered a presentation at the Tech Innovation Forum aimed at leadership, including the department VP and CFO. The session featured an example of an ideal Robotic Process Automation (RPA) solution designed to improve the efficiency and reliability of a key business process. Additionally, I delivered a presentation the following year on a comparative analysis of two leading RPA tools: Alteryx and Power Automate, exploring their features, capabilities, and suitability for different automation needs."
 
