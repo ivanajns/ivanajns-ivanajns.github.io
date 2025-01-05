@@ -1,6 +1,6 @@
 ---
 title: "Presentations: Automation Candidate Example & Alteryx and Power Automate Comparison"  
-subtitle: Delivered presentations at the Tech Innovation Forum aimed at leadership, including the department VP and CFO. 
+subtitle: 
 layout: default
 modal-id: 5
 date: 2014-07-14
