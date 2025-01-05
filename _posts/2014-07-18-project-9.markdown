@@ -4,7 +4,7 @@ subtitle: Delivered presentations at the Tech Innovation Forum aimed at leadersh
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: Automation Candidate Example.pdf
+img: presentation.png
 thumbnail: ep.jpg
 alt: image-alt
 project-date: April 2014
