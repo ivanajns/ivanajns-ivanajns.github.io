@@ -1,5 +1,5 @@
 ---
-title: Cash Discount Segment Breakout 
+title: Cash Discounts Allocation & Segment Breakout 
 subtitle: 
 layout: default
 modal-id: 6
