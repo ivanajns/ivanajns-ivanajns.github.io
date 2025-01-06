@@ -1,5 +1,5 @@
 ---
-title: <br> Bulk Replace General Ledger Transactions <br>
+title: Bulk Replace Summary Totals With General Ledger Transaction Details
 subtitle:
 layout: default
 modal-id: 1
