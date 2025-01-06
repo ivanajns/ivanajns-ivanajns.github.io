@@ -1,15 +1,15 @@
 ---
-title: Project 
-subtitle: Description
+title: "Project: Bulk Replace GL Transactions"
+subtitle: Replacing the summary total with the detailed transactions so they could be matched by the reconcilers. 
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: dreams.png
+img: designer.png
 thumbnail: alteryx.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+project-date: September 2023
+results: Lorem ipsum
+technology: Alteryx, Functions/ expressions
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---
