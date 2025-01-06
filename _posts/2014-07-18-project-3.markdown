@@ -1,5 +1,5 @@
 ---
-title: Project 
+title: Enhancing Auto Certification & Auto Transaction Matching Adoption for Balance Sheet Reconciliations 
 subtitle: 
 layout: default
 modal-id: 3
@@ -7,8 +7,8 @@ date: 2014-07-16
 img: golden.png
 thumbnail: bl.jpg
 alt: image-alt
-project-date: April 2014
-technology:
+project-date: Q4 2023
+technology: Blackline
 challenge:
 results:
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
