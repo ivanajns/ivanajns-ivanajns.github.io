@@ -1,6 +1,6 @@
 ---
-title: "Project: Bulk Replace GL Transactions"
-subtitle: Replacing the summary total with the detailed transactions so they could be matched by the reconcilers. 
+title: Bulk Replace GL Transactions
+subtitle:
 layout: default
 modal-id: 1
 date: 2014-07-18
