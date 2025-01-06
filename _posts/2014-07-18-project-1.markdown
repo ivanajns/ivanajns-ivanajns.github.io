@@ -1,5 +1,5 @@
 ---
-title: Bulk Replace GL Transactions
+title: <br> Bulk Replace GL Transactions <br>
 subtitle:
 layout: default
 modal-id: 1
