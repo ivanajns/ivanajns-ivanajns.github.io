@@ -1,5 +1,5 @@
 ---
-title: Enhancing Auto Certification & Auto Transaction Matching Adoption for Balance Sheet Reconciliations 
+title: Auto Certification & Auto Transaction Matching Adoption for Balance Sheet Reconciliations 
 subtitle: 
 layout: default
 modal-id: 3
