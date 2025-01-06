@@ -1,5 +1,5 @@
 ---
-title: Project 
+title: Urgent Invoice Request Notifications <br> Compliance Fee Invoicing  
 subtitle: 
 layout: default
 modal-id: 2
@@ -8,7 +8,7 @@ img: escape.png
 thumbnail: mpadc.jpg
 alt: image-alt
 project-date: April 2014
-technology:
+technology: Power Automate Cloud & Power Automate Desktop
 challenge:
 results:
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
