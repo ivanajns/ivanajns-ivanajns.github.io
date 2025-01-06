@@ -8,8 +8,9 @@ img: designer.png
 thumbnail: alteryx.jpg
 alt: image-alt
 project-date: September 2023
-results: Lorem ipsum
 technology: Alteryx, Functions/ expressions, SQL
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+challenge: Alteryx, Functions/ expressions, SQL
+results: Lorem ipsum
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse. Also experienced with batch and iterative macros, analytic apps, scripts, and decoding existing workflows. 
 
 ---
