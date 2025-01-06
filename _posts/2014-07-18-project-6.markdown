@@ -1,5 +1,5 @@
 ---
-title: Project 
+title: Cash Discount Segment Breakout 
 subtitle: 
 layout: default
 modal-id: 6
@@ -8,7 +8,7 @@ img: roundicons.png
 thumbnail: mvba.jpg
 alt: image-alt
 project-date: April 2014
-technology:
+technology: Power Query, VBA Macros
 challenge:
 results:
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
