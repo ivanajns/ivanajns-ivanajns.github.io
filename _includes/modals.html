@@ -10,12 +10,12 @@
                 </div>
                 <div class="container">
                     <div class="row">
-                        <div class="col-12 mx-auto"> <!-- Adjusting column width -->
-                            <div class="modal-body">
-                                <h2 class="text-uppercase text-center">{{ post.title }}</h2>  <!-- Added text-uppercase for title styling -->
+                        <div class="col-12 mx-auto">
+                            <div class="modal-body" style="padding: 20px;">
+                                <h2 class="text-uppercase text-center">{{ post.title }}</h2>  
                                 <hr class="star-primary">
-                                <div class="image-wrapper text-center">
-                                <img src="img/portfolio/{{ post.img }}" class="img-fluid d-block mx-auto" alt="{{ post.alt }}">  <!-- Changed to img-fluid for better responsiveness -->
+                                <div class="image-wrapper text-center" style="position: relative; overflow: hidden;">
+                                <img src="img/portfolio/{{ post.img }}" style="display: block; max-width: none; width: 150% position: relative; left: -25%; margin: 0 auto;" class="img-fluid d-block mx-auto" alt="{{ post.alt }}">  <!-- Changed to img-fluid for better responsiveness -->
                                 <p>{{ post.description }}</p>
                                 <ul class="item-details" style="text-center">
                                     <li>Date: {{ post.project-date }}</li>
