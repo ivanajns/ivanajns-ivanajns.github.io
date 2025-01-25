@@ -1,16 +1,16 @@
 <!-- Portfolio Modals -->
 {% for post in site.posts %}
     <div class="portfolio-modal modal fade" id="portfolioModal{{ post.modal-id }}" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-dialog">  <!-- Added modal-dialog -->
+        <div class="modal-dialog modal-lg">  
             <div class="modal-content">
                 <div class="close-modal" data-dismiss="modal">
                     <div class="lr">
                         <div class="rl"></div>
                     </div>
                 </div>
-                <div class="container" style="padding-left: 0; padding-right: 0;">
+                <div class="container">
                     <div class="row">
-                        <div class="col-12 col-lg-10 mx-auto"> <!-- Adjusting column width -->
+                        <div class="col-12 mx-auto"> <!-- Adjusting column width -->
                             <div class="modal-body">
                                 <h2 class="text-uppercase">{{ post.title }}</h2>  <!-- Added text-uppercase for title styling -->
                                 <hr class="star-primary">
