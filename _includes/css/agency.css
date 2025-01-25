@@ -766,6 +766,15 @@ ul.social-buttons li a:active {
     background-color: #{{ site.data.template.color.primary }};
 }
 
+.portfolio-modal .modal-dialog {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0; 
+  height: 100vh; 
+    
+}
+
 .btn:focus,
 .btn:active,
 .btn.active,
