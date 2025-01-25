@@ -814,9 +814,9 @@ ul.social-buttons li a:active {
 
 .portfolio-modal .modal-content img {
     max-width: none;
-    width: 200%;
+    width: 150%;
     position: relative;
-    left: -50%;
+    left: -25%;
     height: auto;
     display: block;
     margin-bottom: 30px;
