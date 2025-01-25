@@ -767,15 +767,10 @@ ul.social-buttons li a:active {
 }
 
 .portfolio-modal .modal-dialog {
-    padding: 50px 50px;
-    min-height: 100%;
-    border: 0;
-    border-radius: 0;
-    text-align: center;
-    background-clip: border-box;
-    -webkit-box-shadow: none;
-    box-shadow: none;r;
-  align-items: center; 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0; 
 }
 
 .btn:focus,
