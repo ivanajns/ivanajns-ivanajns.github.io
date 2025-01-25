@@ -12,11 +12,12 @@
                     <div class="row">
                         <div class="col-12 mx-auto"> <!-- Adjusting column width -->
                             <div class="modal-body">
-                                <h2 class="text-uppercase">{{ post.title }}</h2>  <!-- Added text-uppercase for title styling -->
+                                <h2 class="text-uppercase text-center">{{ post.title }}</h2>  <!-- Added text-uppercase for title styling -->
                                 <hr class="star-primary">
+                                <div class="image-wrapper text-center">
                                 <img src="img/portfolio/{{ post.img }}" class="img-fluid d-block mx-auto" alt="{{ post.alt }}">  <!-- Changed to img-fluid for better responsiveness -->
                                 <p>{{ post.description }}</p>
-                                <ul class="item-details" style="text-align: left;">
+                                <ul class="item-details" style="text-center">
                                     <li>Date: {{ post.project-date }}</li>
                                     <li>Technology: {{ post.technology }}</li>
                                     <li>Challenge: {{ post.challenge }}</li>
