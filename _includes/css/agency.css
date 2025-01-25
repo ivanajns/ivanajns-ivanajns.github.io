@@ -813,11 +813,11 @@ ul.social-buttons li a:active {
 }
 
 .portfolio-modal .modal-content img {
-    max-width: 100%;
-    width: auto;
+    max-width: none;
+    width: 100%;
     height: auto;
     display: block;
-    margin-bottom: 30px;
+    margin: 0 auto;
 }
 
 .portfolio-modal .close-modal {
