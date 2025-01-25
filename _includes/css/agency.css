@@ -817,7 +817,7 @@ ul.social-buttons li a:active {
     width: 100%;
     height: auto;
     display: block;
-    margin: 0 auto;
+    margin-bottom: 30px;
 }
 
 .portfolio-modal .close-modal {
