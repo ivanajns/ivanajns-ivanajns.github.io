@@ -816,7 +816,7 @@ ul.social-buttons li a:active {
     max-width: none;
     width: 200%;
     position: relative;
-    left: -50%
+    left: -50%;
     height: auto;
     display: block;
     margin-bottom: 30px;
