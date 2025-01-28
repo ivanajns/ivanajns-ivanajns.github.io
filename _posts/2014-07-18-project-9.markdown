@@ -1,5 +1,5 @@
 ---
-title: Automation Candidate Example <br> Alteryx and Power Automate Comparison 
+title: Automation Candidate Example, <br> Alteryx and Power Automate Comparison 
 subtitle: 
 layout: default
 modal-id: 9
