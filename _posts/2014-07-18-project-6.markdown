@@ -1,5 +1,5 @@
 ---
-title: Cash Discounts Allocation and Segment Breakout
+title: Journal Entry Fees Tie Out and Payables Systems Quality Assurance
 subtitle: 
 layout: default
 modal-id: 6
