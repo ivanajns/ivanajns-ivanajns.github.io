@@ -1,5 +1,5 @@
 ---
-title: Journal Entry Fees Tie Out, <br> Payables Systems Quality Assurance
+title: Closed Cost Center Reclass, <br> Payables Systems Quality Assurance
 subtitle: 
 layout: default
 modal-id: 6
