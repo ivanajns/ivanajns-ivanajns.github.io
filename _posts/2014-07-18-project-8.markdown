@@ -7,7 +7,7 @@ date: 2014-07-15
 img: treehouse.png
 thumbnail: mpa.jpg
 alt: image-alt
-project-date: April 2014
+project-date: 
 technology:
 challenge:
 results:
